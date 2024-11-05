@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxoluiga.github.io/GiU/sitemap_index.txt
+Sitemap: https://oxoluiga.github.io/VBG/sitemap_index.txt
+Sitemap: https://oxoluiga.github.io/Xxa/sitemap_index.txt
+Sitemap: https://oxoluiga.github.io/haP/sitemap_index.txt
